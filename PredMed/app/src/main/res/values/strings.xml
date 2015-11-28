@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PredMed</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings"></string>
+    <string name="title_activity_signup">Sign Up</string>
+    <string name="title_activity_home">PredMed Home</string>
+    <string name="title_activity_symptom">Give PredMed Symptom 1</string>
+
+    <string-array name="symptoms_array">
+        <item>Fever</item>
+        <item>Cough</item>
+        <item>Head ache</item>
+        <item>Body pain</item>
+        <item>Sore throat</item>
+        <item>Abdomen pain</item>
+        <item>Eye redness</item>
+        <item>Hair fall</item>
+        <item>Rashes</item>
+        <item>Running nose</item>
+    </string-array>
+    <string-array name="intensity_array">
+        <item>Low</item>
+        <item>Moderate</item>
+        <item>Severe</item>
+    </string-array>
+    <string-array name="duration_array">
+        <item>One day</item>
+        <item>One week</item>
+        <item>One month</item>
+    </string-array>
+    <string-array name="size_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="title_activity_suggestions">PredMed Suggests</string>
+    <string name="title_activity_diagnosis">PredMed Diagnosis</string>
+    <string name="title_activity_symptom2">Give PredMed Symptom 2</string>
+    <string name="title_activity_symptom3">Give PredMed Symptom 3</string>
+    <string name="title_activity_symptom4">Give PredMed Symptom 4</string>
+    <string name="title_activity_symptom5">Give PredMed Symptom 5</string>
+    <string name="title_activity_sugg1">PredMed Suggests</string>
+    <string name="title_activity_splash">splash</string>
+
+</resources>
